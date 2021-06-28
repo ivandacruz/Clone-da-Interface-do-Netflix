@@ -4,4 +4,5 @@
 
 # Ferramentas usadas:
 
-* HTML5,  CSS3 e JavaScript.
+* HTML5,  CSS3, e JavaScript.
+* FlexBox
